@@ -7,3 +7,15 @@
 # material files
 /img-processing/pics
 /pdf-processing/miscs
+
+# web-dev files
+/web-dev/.vscode
+/web-dev/Include
+/web-dev/Lib
+/web-dev/Scripts
+/web-dev/pyvenv.cfg
+/web-dev/__pycache__
+/web-dev/data.csv
+/web-dev/data.json
+/web-dev/static
+/web-dev/templates
