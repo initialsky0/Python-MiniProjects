@@ -7,6 +7,8 @@
 # material files
 /img-processing/pics
 /pdf-processing/miscs
+/machine-learning/img
+/machine-learning/model
 
 # web-dev files
 /web-dev/.vscode
